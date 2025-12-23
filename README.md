@@ -91,3 +91,6 @@ java BrickerGameManager <number_of_rows> <number_of_columns>
 | **⬅️ Left Arrow** | Move Paddle Left |
 | **➡️ Right Arrow** | Move Paddle Right |
 | **W** | **Instant Win Cheat** (Clears all bricks for testing purposes) |
+
+
+https://github.com/user-attachments/assets/aab33d94-5af2-46b3-a0cd-81f2e9206bdb
